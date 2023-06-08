@@ -1,6 +1,6 @@
 # MSDS-MachineLearning-Project1
 ```
-# Cancer Expand Analysis
+# Cancer Classification Models' Performance Analysis
 
 This project focuses on analyzing cancer data and performing classification tasks to predict the diagnosis of breast cancer cases. The dataset used for analysis is the Breast Cancer Wisconsin (Diagnostic) Dataset, which contains features computed from breast mass images. The goal is to build machine learning models to classify breast cancer cases as either malignant or benign based on these features.
 
